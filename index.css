@@ -1,0 +1,72 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.container{
+  position: absolute;
+  top: 85px;
+  left: 500px;
+  width: 500px;
+  height: 500px;
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+  background-color:rgb(212, 206, 218);
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+  background-image: url(https://png.pngtree.com/png-vector/20220804/ourmid/pngtree-geometric-background-overlapping-abstract-curves-in-white-and-grey-waves-vector-png-image_38322774.jpg);
+  border-radius: 16px;
+}
+body{
+  background-image: url('  https://img.freepik.com/free-vector/geometric-gradient-futuristic-background_23-2149116406.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+}
+
+input{
+  margin: 10px;
+  margin-left: 30px;
+  padding: 10px;
+  width: 250px;
+  font-size: medium;
+  height: auto;
+ text-align: center;
+ font-weight: bold;
+ border: 2px solid black;
+ border-radius: 16px;
+}
+#myPhn{
+  margin-left:21px ;
+}
+#myPassword{
+  margin-left: 8px;
+  margin-right: 14px;
+}
+#myPassword2{
+  padding: 10px;
+  padding-left: 15px;
+  width:250px ;
+  height: auto;
+  margin-right: 59px;
+  margin-left: 1px;
+  text-align: center;
+}
+#submitbtn{
+  display: inline-block;
+  background-color: rgb(91, 91, 156);
+  margin: 22px;
+  width: 120px;
+  height: 35px;
+  cursor: pointer;
+}
+
+#submitbtn:hover{
+  background-color:rgb(53, 53, 69) ;
+}
+.Registration{
+  margin: 20px;
+  padding: 10px;
+}
